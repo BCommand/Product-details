@@ -1,0 +1,22 @@
+.item-wrap{
+    justify-content: center;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: 0.6rem;
+
+}
+.item-wrap img{
+    margin: auto;
+    width: 80px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.item-wrap p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    
+   
+}
